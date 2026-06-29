@@ -5,7 +5,7 @@
   nikhilpandit.com
 </h1>
 <p align="center">
-  My portfolio <a href="https://gazijarin.com" target="_blank">gazijarin.com</a> built with Vite and React 19, leveraging Material UI v6 and Bootstrap 5.
+  My portfolio <a href="https://future-fs-01-nine-rho.vercel.app/" target="_blank">nikhilpandit.com</a> built with Vite and React 19, leveraging Material UI v6 and Bootstrap 5.
 </p>
 <p align="center">
   <img src="src/assets/view.png" width="100%" alt="gazi-v2-view"/>
